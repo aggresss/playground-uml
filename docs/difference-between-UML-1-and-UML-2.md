@@ -24,3 +24,8 @@ UML 类型|目的|版本
 通讯图|通讯图描述了收发消息的对象的组织关系，强调对象间的合作关系而不是时间顺序|UML 1.x 协作图
 时序图|时序图被用来显示随时间变化，一个或多个元素的值或状态的更改|UML 2.0
 交互概览图|交互概览图与活动图类似，但是它的节点是交互图|UML 2.0
+
+
+## Reference
+- https://www.ibm.com/support/knowledgecenter/zh/SS8PJ7_9.6.1/com.ibm.xtools.modeler.doc/topics/r_uml_name_diffs.html
+- http://www.differencebetween.info/difference-between-uml-1-and-uml-2
