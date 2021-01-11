@@ -1,5 +1,7 @@
 # playground-uml
 
+UML stands for Unified Modeling Language. It’s a rich language to model software solutions, application structures, system behavior and business processes.
+
 ## Reference
 
 - [https://www.omg.org/spec/UML/](https://www.omg.org/spec/UML/)
