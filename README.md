@@ -16,7 +16,7 @@ UML stands for Unified Modeling Language. It’s a rich language to model softwa
 
 * Structure Diagrams
     - Class Diagram (类图)
-    - Component Diagram (构件图)
+    - Component Diagram (组件图)
     - Deployment Diagram (部署图)
     - Object Diagram (对象图)
     - Package Diagram (包图)
